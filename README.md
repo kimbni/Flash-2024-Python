@@ -9,3 +9,10 @@
 - RPS (challenge)
 - Hangman (challenge)
 - ConnectFour (* challenge)
+
+## ✨Here's what's you learn:
+- variables
+- print
+- strings/ints/incrementing/comparisons
+- loops
+- function
