@@ -16,3 +16,5 @@
 - strings/ints/incrementing/comparisons
 - loops
 - function
+
+Enjoy the class!
